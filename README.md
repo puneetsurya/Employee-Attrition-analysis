@@ -1,5 +1,7 @@
 # Employee-Attrition-analysis
 
+[Dashboard Link ](https://app.powerbi.com/view?r=eyJrIjoiMjg4NTk1ZTAtMTU5Ni00YjY4LWI0NDQtNWQwYjU0OWYzNjdhIiwidCI6IjQ4ZGMyNTMzLTU1OWItNDBmZC1iZDkyLTY1NmJkMTQ1ZjYyMiJ9)
+
 About this project
 
 Project Description
